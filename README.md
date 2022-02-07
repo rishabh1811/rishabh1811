@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Svelte
 
-- 🤝 I have 1.5 years of experience 
+- 🤝 I have 2+ years of experience 
 
 - 📫 How to reach me **nameisrishabh@gmail.com**
 
