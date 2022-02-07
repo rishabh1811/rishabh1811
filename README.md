@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working **Freelance**
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning Svelte
+
+- 🤝 I have 1.5 years of experience 
 
 - 📫 How to reach me **nameisrishabh@gmail.com**
 
