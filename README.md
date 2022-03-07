@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working **Freelance**
 
+- ⚡ Working with React
+
 - 🌱 I’m currently learning Svelte
 
 - 🤝 I have 2+ years of experience 
